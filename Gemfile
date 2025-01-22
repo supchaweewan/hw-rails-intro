@@ -13,7 +13,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 
 # Use Unicorn as the app server
-# gem 'unicorn'
+gem 'unicorn'
 
 gem 'themoviedb'
 
